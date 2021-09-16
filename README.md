@@ -1,5 +1,5 @@
 # project_2_image_classifier
-AI Programming with Python Udacity course second project
+Final project for the AI Programming with Python nanodegree through Udacity.
 
 ## Description
 
